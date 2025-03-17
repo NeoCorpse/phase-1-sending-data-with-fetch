@@ -28,7 +28,17 @@
       "id": "2"
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "id": "ca9e"
+    },
+    {
+      "id": "dea6"
+    },
+    {
+      "id": "cf1d"
+    }
+  ],
   "robots": [
     {
       "robotName": "C8-09S100K",
